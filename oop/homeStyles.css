@@ -1,0 +1,129 @@
+body {
+    background-color: #eee;
+}
+h2 {
+    text-align: center;
+    color: black;
+}
+
+addButtonForm{
+    width: 100%;
+    height: 100%;
+}
+
+.addButton{
+    width: 100%;
+    height: 100%;
+}
+
+.inputAddButton {
+    background-color: red;
+    /*margin-left: %;*/
+}
+.titles {
+    margin-left: 10vw;
+    width: 80vw;
+}
+
+.inputStyle{
+    width: 100%;
+    padding: 5px;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box; 
+}
+.label {
+    display: block; 
+    /*border: 1px solid appworkspace;*/
+    text-align: center;
+}
+.column1 {
+     width: 150px;
+     height: 75px;
+    display: table-cell;
+    border: 1px solid darkgreen;
+   
+}
+.column2 {
+    width: 150px;
+     height: 75px;
+  display: table-cell;
+    border: 1px solid darkgreen;
+   
+}
+.column3 {
+    
+
+
+ 
+
+    
+     height: 150px;
+    width: 150px;
+    
+/*      overflow: auto;*/
+        display: table-cell;
+    border: 1px solid darkgreen;
+
+}
+
+.content {
+    
+    height:150px;
+   overflow:scroll;
+   
+    
+}
+
+
+
+.column4 {
+    
+    width: 150px;
+     height: 75px;
+display: table-cell;
+    border: 1px solid darkgreen;
+   
+}
+.column5 {
+  
+    width: 150px;
+     height: 75px;
+  display: table-cell;
+    border: 1px solid darkgreen;
+ 
+}
+.column6 {
+   width: 150px;
+     height: 75px;
+   display: table-cell ;
+   border: 1px solid darkgreen;
+ 
+}
+.column7 {
+   width: 0px;
+     height: 0px;
+    display: table-cell;
+/*    border: 1px solid darkgreen;*/
+    
+}
+.column8 {
+ width: 200px;
+     height: 75px;
+display: table-cell;
+border: 1px solid darkgreen; 
+}
+
+/*.column9 {
+ width: 150px;
+     height: 75px;
+display: table-cell;
+border: 1px solid darkgreen; 
+}*/
+
+
+
+
